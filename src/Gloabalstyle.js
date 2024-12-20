@@ -14,11 +14,6 @@ a:hover {
     color: #2d53d2;
     }
 
-img {
-        border-radius: 8px;
-        border: 3px solid rgba(243, 17, 255, 0.7); 
-       
-    }
     body{
         color: #6c7983;
         font-size: 1.2rem;
