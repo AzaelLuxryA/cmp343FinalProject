@@ -13,6 +13,13 @@ const GlobalStyle = createGlobalStyle`
 a:hover {
     color: #2d53d2;
     }
+
+       .card {
+    background-color: white;
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+ }
     body{
         color: #6c7983;
         font-size: 1.2rem;
