@@ -18,7 +18,7 @@ a:hover {
     background-color: white;
     border-radius: 8px;
     padding: 1rem;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px rgba(184, 19, 19, 0.97);
  }
     body{
         color: #6c7983;
