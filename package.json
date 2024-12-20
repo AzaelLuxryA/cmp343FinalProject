@@ -1,0 +1,21 @@
+{
+  "name": "cmp343finalproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzaelLuxryA/cmp343FinalProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AzaelLuxryA/cmp343FinalProject/issues"
+  },
+  "homepage": "https://azaelluxrya.github.io/cmp343FinalProject/",
+  "description": ""
+}
