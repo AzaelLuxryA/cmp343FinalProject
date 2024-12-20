@@ -14,12 +14,11 @@ a:hover {
     color: #2d53d2;
     }
 
-       .card {
-    background-color: white;
-    border-radius: 8px;
-    padding: 1rem;
-    box-shadow: 0 2px 4px rgba(184, 19, 19, 0.97);
- }
+img {
+        border-radius: 8px;
+        border: 3px solid rgba(243, 17, 255, 0.7); 
+       
+    }
     body{
         color: #6c7983;
         font-size: 1.2rem;
