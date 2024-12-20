@@ -52,6 +52,10 @@ const PopularStyled = styled.div`
             border-radius: 7px;
             border: 5px solid #e5e7eb;
         }
+        .popular-anime a img {
+    border-radius: 7px;
+    object-fit: cover;
+    }
         a img{
             width: 100%;
             height: 100%;
