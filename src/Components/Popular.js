@@ -46,7 +46,6 @@ const PopularStyled = styled.div`
         grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
         grid-gap: 2rem;
         background-color: #fff;
-        border-top: 5px solid #e5e7eb;
         a{
             height: 500px;
             border-radius: 7px;
@@ -58,7 +57,7 @@ const PopularStyled = styled.div`
             width: 100%;
             height: 100%;
             object-fit: cover;
-            border-radius: 5px;
+          
         }
     }
 `;
