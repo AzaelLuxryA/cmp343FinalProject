@@ -55,7 +55,7 @@ const PopularStyled = styled.div`
         .popular-anime a img {
     border-radius: 7px;
     object-fit: cover;
-    }
+    box-shadow: 0 4px 20px rgba(177, 12, 169, 0.96)        }
         a img{
             width: 100%;
             height: 100%;
