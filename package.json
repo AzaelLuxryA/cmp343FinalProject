@@ -17,5 +17,8 @@
     "url": "https://github.com/AzaelLuxryA/cmp343FinalProject/issues"
   },
   "homepage": "https://azaelluxrya.github.io/cmp343FinalProject/",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
 }
