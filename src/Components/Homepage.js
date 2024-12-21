@@ -72,7 +72,7 @@ function Homepage() {
 }
 
 const HomepageStyled = styled.div`
-    background-color: #EDEDED;
+    background-color:rgb(0, 0, 0);
     header{
         padding: 2rem 5rem;
         width: 60%;
@@ -100,11 +100,11 @@ const HomepageStyled = styled.div`
                 outline: none;
                 border-radius: 30px;
                 font-size: 1.2rem;
-                background-color: #fff;
+                background-color: rgb(0, 0, 0);
                 cursor: pointer;
                 transition: all .4s ease-in-out;
                 font-family: inherit;
-                border: 5px solidrgb(245, 47, 205);
+                border: 5px solid rgb(245, 47, 205);
             }
             form{
                 position: relative;
@@ -120,7 +120,7 @@ const HomepageStyled = styled.div`
                     outline: none;
                     border-radius: 30px;
                     font-size: 1.2rem;
-                    background-color: #fff;
+                    background-color: rgb(0, 0, 0);
                     border: 5px solid #e5e7eb;
                     transition: all .4s ease-in-out;
                 }
