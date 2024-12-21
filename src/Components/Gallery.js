@@ -75,7 +75,7 @@ const GalleryStyled = styled.div`
         display: inline-block;
         padding: 2rem;
         margin: 2rem 0;
-        background-color: #fff;
+        background-color: rgb(0,0,0);
         border-radius: 7px;
         border: 5px solid rgb(216, 10, 231);
         position: relative;
@@ -91,7 +91,7 @@ const GalleryStyled = styled.div`
         width: 80%;
         padding: 2rem;
         border-radius: 7px;
-        background-color: #fff;
+        background-color: rgb(0,0,0);
         border: 5px solid  rgb(216, 10, 231);
         img{
             width: 6rem;
@@ -100,7 +100,8 @@ const GalleryStyled = styled.div`
             cursor: pointer;
             border-radius: 5px;
             border: 3px solid  rgb(216, 10, 231);
-        } 
+                    background-color: rgb(0,0,0);
+            } 
     }
 `;
 
