@@ -46,11 +46,11 @@ const PopularStyled = styled.div`
         grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
         grid-gap: 2rem;
         background-color: #fff;
-        border-top: 5px solidrgb(249, 24, 152);
+        border-top: 5px solid rgb(249, 24, 152);
         a{
             height: 500px;
             border-radius: 7px;
-            border: 7px solidrgb(216, 10, 231);
+            border: 7px solid rgb(216, 10, 231);
         }
  
  
