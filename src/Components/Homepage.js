@@ -121,7 +121,7 @@ const HomepageStyled = styled.div`
                     border-radius: 30px;
                     font-size: 1.2rem;
                     background-color: rgb(0, 0, 0);
-                    border: 5px solid #e5e7eb;
+                    border: 5px solid rgb(245, 47, 205);
                     transition: all .4s ease-in-out;
                 }
                 .input-control button{
