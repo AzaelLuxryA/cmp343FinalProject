@@ -102,7 +102,7 @@ function AnimeItem() {
 
 const AnimeItemStyled = styled.div`
     padding: 3rem 18rem;
-    background-color: #EDEDED;
+    background-color:rgb(0, 0, 0);
     h1{
         display: inline-block;
         font-size: 3rem;
@@ -128,7 +128,7 @@ const AnimeItemStyled = styled.div`
 
     .description{
         margin-top: 2rem;
-        color: #6c7983;
+        color:rgb(255, 255, 255);
         line-height: 1.7rem;
         button{
             background-color: transparent;
@@ -147,10 +147,10 @@ const AnimeItemStyled = styled.div`
         align-items: center;
         iframe{
             outline: none;
-            border: 5px solid #e5e7eb;
+            border: 5px solid rgb(0, 0, 0);
             padding: 1.5rem;
             border-radius: 10px;
-            background-color: #FFFFFF;
+            background-color:rgb(0, 0, 0);
         }
     }
 
