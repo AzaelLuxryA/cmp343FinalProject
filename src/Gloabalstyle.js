@@ -15,8 +15,9 @@ a:hover {
     }
 
     body{
-        color: #6c7983;
-        font-size: 1.2rem;
+       background-color:rgb(7, 7, 8); 
+        color:rgb(254, 255, 255); 
+        font-size: 1.2rem; 
         &::-webkit-scrollbar{
             width: 7px;
         }
