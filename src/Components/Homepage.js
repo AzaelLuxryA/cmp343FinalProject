@@ -105,7 +105,8 @@ const HomepageStyled = styled.div`
                 transition: all .4s ease-in-out;
                 font-family: inherit;
                 border: 5px solid rgb(245, 47, 205);
-            }
+                color: solid rgb(255, 255, 255);
+                }
             form{
                 position: relative;
                 width: 100%;
@@ -123,13 +124,16 @@ const HomepageStyled = styled.div`
                     background-color: rgb(0, 0, 0);
                     border: 5px solid rgb(245, 47, 205);
                     transition: all .4s ease-in-out;
-                }
+                    color: solid rgb(255, 255, 255);
+                    }
                 .input-control button{
                     position: absolute;
                     right: 0;
                     top: 50%;
                     transform: translateY(-50%);
-                }
+                   color: solid rgb(255, 255, 255);
+
+                    }
             }
         }
     }
