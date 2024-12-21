@@ -46,7 +46,7 @@ const PopularStyled = styled.div`
         grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
         grid-gap: 2rem;
         background-color: rgb(0,0,0);
-        border-top: 5px solid rgb(249, 24, 152);
+      
         a{
             height: 500px;
             border-radius: 7px;
