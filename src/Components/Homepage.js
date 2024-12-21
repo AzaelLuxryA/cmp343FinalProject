@@ -104,7 +104,7 @@ const HomepageStyled = styled.div`
                 cursor: pointer;
                 transition: all .4s ease-in-out;
                 font-family: inherit;
-                border: 5px solid #e5e7eb;
+                border: 5px solidrgb(245, 47, 205);
             }
             form{
                 position: relative;
