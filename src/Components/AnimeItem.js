@@ -147,7 +147,7 @@ const AnimeItemStyled = styled.div`
         align-items: center;
         iframe{
             outline: none;
-            border: 5px solid rgb(0, 0, 0);
+            border: 5px solid  rgb(216, 10, 231);
             padding: 1.5rem;
             border-radius: 10px;
             background-color:rgb(0, 0, 0);
@@ -189,7 +189,7 @@ const AnimeItemStyled = styled.div`
         background-color: rgb(0,0,0);
         padding: 2rem;
         border-radius: 20px;
-        border: 5px solid rgb(0, 0, 0);
+        border: 5px solid  rgb(216, 10, 231);
         .character{
             padding: .4rem .6rem;
             border-radius: 7px;
